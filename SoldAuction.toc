@@ -1,0 +1,7 @@
+## Interface: 100200
+## Title: SoldAuction
+## Notes: Sheldon Copper lets you know you have sold a auction
+## Author: Sharpedge_Gaming
+## Version: V-2.2
+
+SoldAuction.lua
